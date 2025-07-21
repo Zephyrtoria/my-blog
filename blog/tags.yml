@@ -1,19 +1,24 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+front-end:
+  label: Front-end
+  permalink: /front-end
+  description: 前端相关笔记
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+back-end:
+  label: Back-end
+  permalink: /back-end
+  description: 后端相关笔记
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+computer-science:
+  label: Computer-science
+  permalink: /computer-science
+  description: 计科学科学习笔记
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+technology:
+  label: Technology
+  permalink: /technology
+  description: 技术相关笔记
+
+article:
+  label: Article
+  permalink: /article
+  description: 八股文
